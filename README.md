@@ -1,6 +1,3 @@
-Here’s a formatted README for your GitHub repository:
-
----
 
 # Kitty-Split-Prototype
 
@@ -22,7 +19,3 @@ A database design and application for managing expense groups.
 
 ### 5. Display Expenses, Comments, Overview
 - **Description:** Presents expenses, comments, and a financial overview of the Kitty. Provides insights into financial transactions, user interactions, and a summary of the Kitty's financial state.
-
----
-
-This should be well-structured and easy to read for anyone visiting your GitHub repository.
