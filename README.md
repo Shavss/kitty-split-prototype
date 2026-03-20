@@ -1,7 +1,7 @@
 
 # Kitty-Split-Prototype
 
-A database design and application for managing expense groups.
+A database design and a prototype of an application for managing expense groups.
 
 ## Features
 
