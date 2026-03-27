@@ -8,6 +8,8 @@ A console-based prototype for managing shared expense groups ("Kitties"), built 
 
 The relational schema was designed to support flexible expense splitting across multiple users and groups, implemented using Entity Framework Core with a SQLite backend.
 
+![Database Schema](database.jpeg)
+
 ### Core Tables
 
 - **Kitty** — Represents an expense group with an `EventName`, a currency reference (`CurrencyID`), and a `SuperKitty` flag that unlocks premium features such as multi-currency transactions.
